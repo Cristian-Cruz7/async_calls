@@ -1,0 +1,29 @@
+{
+  "name": "print-numbers-server",
+  "version": "1.0.0",
+  "description": "Creation of a server on which the numbers from 1 to 100 will be printed.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cristian-Cruz7/async_calls.git"
+  },
+  "keywords": [
+    "Server",
+    "nodeJs",
+    "Numbers",
+    "Html",
+    "Css"
+  ],
+  "author": "Thelp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cristian-Cruz7/async_calls/issues"
+  },
+  "homepage": "https://github.com/Cristian-Cruz7/async_calls#readme",
+  "devDependencies": {
+    "nodemon": "2.0.16"
+  }
+}
